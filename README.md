@@ -1,4 +1,4 @@
-📊 Student Depression Analysis:
+📊 Analysing Cause of Depression among Students:
 This project aims to analyze and understand the patterns and key factors that contribute to depression among students. Mental health issues among students have become increasingly common due to academic pressure, social expectations, and lifestyle challenges. With the help of data science and machine learning techniques, this project seeks to uncover insights that could assist in early detection and intervention.
 
 🔍 Dataset Overview:
