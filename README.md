@@ -22,7 +22,7 @@ Exploratory Data Analysis (EDA): Visualized distributions and correlations betwe
 
 Feature Selection: Identified important attributes that influence depression using correlation heatmaps and statistical methods.
 
-Modeling: Applied machine learning models such as Logistic Regression, Decision Trees, and Random Forest to predict whether a student is likely to be depressed.
+Modeling: Applied machine learning models.
 
 Evaluation: Compared model performance using accuracy, precision, recall, and F1-score.
 
